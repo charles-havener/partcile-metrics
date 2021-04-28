@@ -14,7 +14,7 @@ TODO
 # Running the Script
 
 Creating the venv and install packages only required on initial setup/run.  
-**virtual environment will still need to activated each time before running*
+**virtual environment will still need to be activated each time before running*
 
 Create a virtual environment and activate it (optional):
 ```sh
