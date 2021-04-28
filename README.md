@@ -53,7 +53,10 @@ $ python main.py
 
 # Example Output
 
-### Bubble Charts
-<img src="examples/EXAMPLE_IMAGE_1.png">
-<img src="examples/EXAMPLE_IMAGE_2.png">
-<img src="examples/EXAMPLE_IMAGE_3.png">
+### Combo Chart
+<img src="examples/example_combo.png">
+</br></br>
+
+### Single Charts
+<img src="examples/example_0.5.png">
+<img src="examples/example_5.0.png">
